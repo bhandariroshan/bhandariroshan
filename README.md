@@ -24,7 +24,11 @@ const bhanduroshan = {
   cloud: [AWS, Google Cloud, Azure],
   architecture: ["microservices", "model-view-controller"],
   techCommunities: {
-                    founder: ['http://flipkarma.com', 'http://meroanswer.com', 'http://phunka.com'],
+                    founder: [
+                        'http://flipkarma.com', 
+                        'http://meroanswer.com', 
+                        'http://phunka.com'
+                    ],
                     teaching_assistant: "Clemson University, Clemson, SC",
                     mentoring: "300+ Clemson University under grad and grad students"
                   },
