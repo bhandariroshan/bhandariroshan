@@ -8,7 +8,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
 
-<p><em> I have 7+ years of experience in software engineering. </br> Currently, I am for looking for exciting team and project to work (anywhere in United States).  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>I have Master's of Computer Science degree from Clemson University. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em> I have 7+ years of experience in software engineering. </br></br> Currently, I am for looking for exciting team and project to join (anywhere in United States).  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></br> I have Master's of Computer Science degree from Clemson University. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![broshan.com.np](https://img.shields.io/static/v1?label=broshan.com.np&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](http://broshan.com.np/) [![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bhandariroshan/) [![rbhanda@clemson.edu](https://img.shields.io/static/v1?label=rbhanda@clemson.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:rbhanda@clemson.edu)
@@ -38,7 +38,7 @@ const bhanduroshan = {
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=bhanduroshan&hide=["contribs","issues"])
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy connect and help. Please feel free to connect with me.</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Please feel free to connect with me. Always happy to help. </b></em>
 
 ---
 
