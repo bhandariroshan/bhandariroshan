@@ -30,7 +30,7 @@ const bhanduroshan = {
                         'http://phunka.com'
                     ],
                     teaching_assistant: "Clemson University, Clemson, SC",
-                    mentoring: "300+ Clemson University under grad and grad students"
+                    mentoring: "300+ undergrad and grad students @Clemson University"
                   },
  loves: "Writing code, developing systems and architectures, hiking, reading!"
 }
