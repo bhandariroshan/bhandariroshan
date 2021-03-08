@@ -5,9 +5,6 @@
 
 <h2> Hi, I'm Roshan Bhandari! <!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">--></h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
-
-
 <p><em> Currently, I am for looking for exciting team and project to join (anywhere in United States).  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></br> I have 7+ years of experience in software development and a Master's of Computer Science degree from Clemson University. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
@@ -16,8 +13,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const bhanduroshan = {
+```python
+ bhanduroshan = {
   languages: [Python, Java, Javascript, HTML, CSS],
   frameworks: [Django, React, Docker, Tensorflow],
   databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
