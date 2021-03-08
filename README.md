@@ -15,12 +15,12 @@
 
 ```javascript
  const bhanduroshan = {
-  languages: [Python, Java, Javascript, HTML, CSS],
-  frameworks: [Django, React, Docker, Tensorflow],
-  databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
-  cloud: [AWS, Google Cloud, Azure],
-  architecture: ["microservices", "model-view-controller"],
-  techCommunities: {
+        languages: [Python, Java, Javascript, HTML, CSS],
+        frameworks: [Django, React, Docker, Tensorflow],
+        databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
+        cloud: [AWS, Google Cloud, Azure],
+        architecture: ["microservices", "model-view-controller"],
+        techCommunities: {
                     founder: [
                         'http://flipkarma.com', 
                         'http://meroanswer.com', 
@@ -29,8 +29,8 @@
                     teaching_assistant: "Clemson University, Clemson, SC",
                     mentoring: "300+ undergrad and grad students @Clemson University"
                   },
- loves: "Writing code, developing systems and architectures, hiking, reading!"
-}
+        loves: "Writing code, developing systems and architectures, hiking, reading!"
+    }
 ```
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=bhanduroshan&hide=["contribs","issues"])
