@@ -20,14 +20,15 @@
         databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
         cloud: [AWS, Google Cloud, Azure],
         architecture: ["microservices", "model-view-controller"],
-        techCommunities: {
-                    founder: [
+        experience: {
+                    "intern": "LexisNexis, HPCC Systems",
+                    "graduate teaching assistant": " mentoring 300+ undergrad and grad students @Clemson University, Clemson, SC",
+                    "senior software engineer": "Grow By Data Services, http://growbydata.com",
+                    "founder, software engineer": [
                         'http://flipkarma.com', 
                         'http://meroanswer.com', 
                         'http://phunka.com'
-                    ],
-                    teaching_assistant: "Clemson University, Clemson, SC",
-                    mentoring: "300+ undergrad and grad students @Clemson University"
+                    ]
                   },
         loves: "Writing code, developing systems and architectures, hiking, reading!"
     }
