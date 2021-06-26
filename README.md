@@ -24,7 +24,7 @@
                     intern: "LexisNexis, HPCC Systems",
                     graduate_teaching_assistant: "Clemson University, Clemson, SC",
                     senior_software_engineer: "Grow By Data Services, http://growbydata.com",
-                    co-founder_and_software_engineer": [
+                    software_engineer: [
                         'http://flipkarma.com', 
                         'http://meroanswer.com', 
                         'http://phunka.com'
