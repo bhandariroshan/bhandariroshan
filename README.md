@@ -22,7 +22,7 @@
         architecture: ["microservices", "model-view-controller"],
         experience: {
                     intern: "LexisNexis, HPCC Systems",
-                    graduate_teaching_assistant: " mentoring 300+ undergrad and grad students @Clemson University, Clemson, SC",
+                    graduate_teaching_assistant: "Clemson University, Clemson, SC",
                     senior_software_engineer: "Grow By Data Services, http://growbydata.com",
                     co-founder_and_software_engineer": [
                         'http://flipkarma.com', 
