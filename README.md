@@ -8,7 +8,7 @@
 <p><em> Currently, I am for looking for exciting team and project to join (anywhere in United States).  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></br> I have 7+ years of experience in software development. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![broshan.com.np](https://img.shields.io/static/v1?label=broshan.com.np&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](http://broshan.com.np/) [![@bhandariroshan](https://img.shields.io/static/v1?label=linkedin&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bhandariroshan/) [![rbhanda@clemson.edu](https://img.shields.io/static/v1?label=rbhanda@clemson.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:rbhanda@clemson.edu)
+[![](https://img.shields.io/static/v1?label=broshan.com.np&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](http://broshan.com.np/) [![@bhandariroshan](https://img.shields.io/static/v1?label=linkedin&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in//) [![](https://img.shields.io/static/v1?label=rbhanda@clemson.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)]
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
