@@ -22,7 +22,7 @@ Hi, I'm Roshan Bhandari!  <p/>
                         'http://phunka.com'
                     ],
                     software_engineer: "LexisNexis Risk Solutions",
-                    software_research_engineer/teaching_assistant: "Clemson University, Clemson, SC" 
+                    software_research_engineer_and_teaching_assistant: "Clemson University, Clemson, SC" 
         },
         skills: {
                    languages: [Python, Java, Javascript, HTML, CSS],
