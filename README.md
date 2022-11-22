@@ -13,14 +13,6 @@ Hi, I'm Roshan Bhandari!  <p/>
 
 ```javascript
  const bhanduroshan = {
-        languages: [Python, Java, Javascript, HTML, CSS],
-        frameworks: [Django, React, Docker, Tensorflow],
-        data_engineering: [Pandas, PySpark, Hadoop, Luecene, Elastic Search, HPCC],
-        machine_learning: [Scikit Learn, Keras, Tensorflow],
-        ci_cd_devops: [Github, Github Actions, Jenkins, Travis-CI, Docker, Kubernetes, Argo CD],
-        databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
-        cloud: [AWS, Google Cloud, Azure],
-        architecture: ["microservices", "model-view-controller"],
         experience: {
                     senior_software_engineer: "RELX Inc., https://www.relx.com/",
                     senior_software_engineer: "Grow By Data Services, http://growbydata.com",
@@ -31,6 +23,16 @@ Hi, I'm Roshan Bhandari!  <p/>
                     ],
                     software_engineer_intern: "LexisNexis Risk Solutions"
                   },
+        skills: {
+                   languages: [Python, Java, Javascript, HTML, CSS],
+                   frameworks: [Django, React, Docker, Tensorflow],
+                   data_engineering: [Pandas, PySpark, Hadoop, Luecene, Elastic Search, HPCC],
+                   machine_learning: [Scikit Learn, Keras, Tensorflow],
+                   ci_cd_devops: [Github, Github Actions, Jenkins, Travis-CI, Docker, Kubernetes, Argo CD],
+                   databases: [MySQL, MSSQL, MongoDb, DynamoDb, RedShift, BigQuery],
+                   cloud: [AWS, Google Cloud, Azure],
+                   architecture: ["microservices", "model-view-controller"]
+        },
         loves: "Writing code, developing systems and architectures, hiking, reading!"
     }
 ```
