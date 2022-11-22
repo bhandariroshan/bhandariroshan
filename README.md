@@ -23,7 +23,7 @@
         architecture: ["microservices", "model-view-controller"],
         experience: {
                     senior_software_engineer: "RELX Inc., https://www.relx.com/",
-                    intern: "LexisNexis, HPCC Systems",
+                    software_engineer: "LexisNexis Risk Solutions",
                     senior_software_engineer: "Grow By Data Services, http://growbydata.com",
                     software_engineer: [
                         'http://flipkarma.com', 
