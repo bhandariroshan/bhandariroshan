@@ -16,7 +16,7 @@ Hi, I'm Roshan Bhandari!  <p/>
         experience: {
                     senior_software_engineer: "RELX Inc., https://www.relx.com/",
                     senior_software_engineer: "Grow By Data Services, http://growbydata.com",
-                    software_engineer: [
+                    software_engineer_architect_founder: [
                         'http://flipkarma.com', 
                         'http://meroanswer.com', 
                         'http://phunka.com'
