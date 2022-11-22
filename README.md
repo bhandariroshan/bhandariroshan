@@ -22,7 +22,7 @@ Hi, I'm Roshan Bhandari!  <p/>
                         'http://phunka.com'
                     ],
                     software_engineer_intern: "LexisNexis Risk Solutions"
-                  },
+        },
         skills: {
                    languages: [Python, Java, Javascript, HTML, CSS],
                    frameworks: [Django, React, Docker, Tensorflow],
