@@ -5,7 +5,7 @@
 
 Hi, I'm Roshan Bhandari!  <p/>
 
-<p><em> I work as Senior Software Engineer at RELX Inc and I have a Master's degree in Computer Science from Clemson University. If you are looking for mentorship or help or want to talk about any opportunities, pelase feel free to ping me: rbhanda at  g dot clemson dot edu.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></br> In total, I have ~10 years of experience in software development. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em> I work as Senior Software Engineer at RELX Inc and I have a Master's degree in Computer Science from Clemson University. In total, I have ~10 years of experience in software development. If you are looking for mentorship or help or want to talk about any opportunities, pelase feel free to ping me: rbhanda at  g dot clemson dot edu.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br></br>   
 </em></p>
 
 
